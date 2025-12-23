@@ -72,7 +72,7 @@ def logo():
     `YMMNq.   `YMMNq.   MM" "bg. 
   .     `MM .     `MM   MM    `Y 
   Mb     dM Mb     dM   MM    ,9 
-  P"Ybmmd"  P"Ybmmd"  .JMMmmmd9.    {G}INSTAGRAM AC8 CLON3
+  P"Ybmmd"  P"Ybmmd"  .JMMmmmd9.    {G}INSTA AC8 CLON3
 -----------------------------------------
  FACEBOOK  :     \033[1;97mShivaa Lodiwal 
  WHATAPP   :     \033[1;97m+918000032877
@@ -201,5 +201,6 @@ def graphrm(id,psd,tid):
 	lop+=1
 Main()
 #-৳-৳-৳-৳
+
 
 
