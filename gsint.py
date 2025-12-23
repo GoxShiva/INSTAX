@@ -72,12 +72,12 @@ def logo():
     `YMMNq.   `YMMNq.   MM" "bg. 
   .     `MM .     `MM   MM    `Y 
   Mb     dM Mb     dM   MM    ,9 
-  P"Ybmmd"  P"Ybmmd"  .JMMmmmd9
+  P"Ybmmd"  P"Ybmmd"  .JMMmmmd9.    INSTAGRAM AC8 CLON3
 -----------------------------------------
  FACEBOOK  :     \033[1;97mShivaa Lodiwal 
  WHATAPP   :     \033[1;97m+918000032877
  FEATURE   :     \033[1;97mOLD CLONE 
- VERSION   :     \033[1;97mS27.2
+ VERSION   :     \033[1;97mS 0.01
 -----------------------------------------
 \33[38;5;208mUse flight (airplane) mode before use
 \033[1;97m-----------------------------------------
@@ -201,3 +201,4 @@ def graphrm(id,psd,tid):
 	lop+=1
 Main()
 #-৳-৳-৳-৳
+
